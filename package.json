@@ -1,0 +1,20 @@
+{
+  "name": "siriweb-blog",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "xStarRiver",
+    "email": "ers13542785lol@gmail.com"
+  },
+  "repository": "siri-blog/",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3",
+    "vuepress-theme-reco": "^1.6.6"
+  }
+}
