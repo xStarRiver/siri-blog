@@ -9,23 +9,18 @@ on:
 # 任务
 jobs:
   build-and-deploy:
-    # 服务器环境：最新版 Ubuntu
     runs-on: ubuntu-latest
     steps:
-      # 拉取代码
-      - name: Checkout
-        uses: actions/checkout@v2
-        with:
-          persist-credentials: false
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2.3.1
 
-      # 生成静态文件
-      - name: Build
-        run: npm install && npm run docs:build
+      - name: Install and Build 🔧 # This example project is built using npm and outputs the result to the 'build' folder. Replace with the commands required to build your project, or remove this step entirely if your site is pre-built.
+        run: |
+          npm install
+          npm run build
 
-      # 部署到 GitHub Pages
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@releases/v3
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          BRANCH: gh-pages
-          FOLDER: docs/.vuepress/dist
+          branch: gh-pages # The branch the action should deploy to.
+          folder: build # The 
