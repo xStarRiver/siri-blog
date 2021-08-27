@@ -21,7 +21,7 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['meta', { property: 'og:title', content: 'PLKCFS-Siri' }],
     ['meta', { property: 'og:url', content: 'https://xstarriver.github.io/siri-blog' }],
-    ['meta', { property: 'og:image', content: 'https://avatars.githubusercontent.com/u/89564781?v=4' }],
+    ['meta', { property: 'og:image', content: 'https://upload.wikimedia.org/wikipedia/zh/8/8e/AppleSiriIcon2017.png' }],
     ['meta', { property: 'og:description', content: ' SIRI Blog' }],
     ['meta', { property: 'og:site_name', content: 'PLKCFS-Siri 討論區' }],
     ['link', { rel: 'icon', href: 'https://avatars.githubusercontent.com/u/89564781?v=4' }],
