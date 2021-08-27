@@ -44,10 +44,7 @@ module.exports = {
     lastUpdated: false,
     noFoundPageByTencent: false,
     type: 'blog',
-    blogConfig: {
-      category: {
-      },
-    },
+    blogConfig: {},
     nav: [
       {
         text: '返回首頁',
