@@ -24,7 +24,7 @@ module.exports = {
     ['meta', { property: 'og:image', content: 'https://avatars.githubusercontent.com/u/77926809?v=4' }],
     ['meta', { property: 'og:description', content: ' SIRI Blog' }],
     ['meta', { property: 'og:site_name', content: 'PLKCFS-Siri 討論區' }],
-    ['link', { rel: 'icon', href: 'https://avatars.githubusercontent.com/u/89564781?v=4' }],
+    ['link', { rel: 'icon', href: 'https://avatars.githubusercontent.com/u/77926809?v=4' }],
   ],
   theme: 'reco',
   /**
