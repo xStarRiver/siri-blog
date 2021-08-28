@@ -38,7 +38,7 @@ module.exports = {
     repo: '',
     editLinks: false,
     docsDir: '',
-    mode: 'dark', // Default 'auto'，'auto' follows system, 'dark' is set to dark mode, 'light' is set to light mode
+    mode: 'light', // Default 'auto'，'auto' follows system, 'dark' is set to dark mode, 'light' is set to light mode
     modePicker: false,
     editLinkText: '',
     lastUpdated: false,
