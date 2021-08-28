@@ -114,7 +114,7 @@ module.exports = {
         // 从哪一侧开始Y轴 (top|min, middle|center, bottom|max, random)
         verticalPosition: "center",
         // 到达屏幕另一侧的速度有多快
-        horizontalSpeed: 400,
+        horizontalSpeed: 300,
         // 在任何给定时间，屏幕上会保留多少条带
         ribbonCount: 3,
         // 添加笔划以及色带填充颜色
