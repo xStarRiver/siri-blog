@@ -120,7 +120,7 @@ module.exports = {
         // 添加笔划以及色带填充颜色
         strokeSize: 0,
         // 通过页面滚动上的因子垂直移动色带
-        parallaxAmount: -0.5,
+        parallaxAmount: -5,
         // 随着时间的推移，为每个功能区添加动画效果
         animateSections: true
       },
