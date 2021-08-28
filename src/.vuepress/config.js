@@ -75,14 +75,14 @@ module.exports = {
     sidebar: { },
     friendLink: [
       {
-        title: 'xStarRiver',
+        title: 'Ho Chung Hung',
         desc: 'GitHub link',
         email: 'ers13542785lol@gmail.com',
         link: 'https://github.com/xstarriver',
         logo: 'https://avatars.githubusercontent.com/u/48813247?v=4',
       },
     ],
-    logo: 'https://avatars.githubusercontent.com/u/89564781?v=4',
+    logo: 'https://avatars.githubusercontent.com/u/77926809?v=4',
     search: true,
     searchMaxSuggestions: 10,
     lastUpdated: 'Last Updated',
