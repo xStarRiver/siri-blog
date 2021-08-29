@@ -9,6 +9,7 @@ module.exports = {
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
   description: description,
+  
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -82,6 +83,7 @@ module.exports = {
         logo: 'https://avatars.githubusercontent.com/u/48813247?v=4',
       },
     ],
+    
     logo: 'https://avatars.githubusercontent.com/u/77926809?v=4',
     search: true,
     searchMaxSuggestions: 10,
@@ -89,7 +91,9 @@ module.exports = {
     author: 'PLKCFS-Siri',
     authorAvatar: 'https://avatars.githubusercontent.com/u/89564781?v=4',
     startYear: '2021',
+    
   },
+
 
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
@@ -114,7 +118,7 @@ module.exports = {
         // 从哪一侧开始Y轴 (top|min, middle|center, bottom|max, random)
         verticalPosition: "center",
         // 到达屏幕另一侧的速度有多快
-        horizontalSpeed: 300,
+        horizontalSpeed: 100,
         // 在任何给定时间，屏幕上会保留多少条带
         ribbonCount: 3,
         // 添加笔划以及色带填充颜色
