@@ -76,9 +76,9 @@ module.exports = {
     friendLink: [
       {
         title: 'Ho Chung Hung',
-        desc: 'GitHub link',
+        desc: 'Instagram',
         email: 'ers13542785lol@gmail.com',
-        link: 'https://github.com/xstarriver',
+        link: 'https://www.instagram.com/xstarriver/',
         logo: 'https://avatars.githubusercontent.com/u/48813247?v=4',
       },
     ],
