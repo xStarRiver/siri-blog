@@ -108,9 +108,9 @@ module.exports = {
       zIndex: -1,   //  层级
       opt: {
         // 色带HSL饱和度
-        colorSaturation: "80%",
+        colorSaturation: "70%",
         // 色带HSL亮度量
-        colorBrightness: "60%",
+        colorBrightness: "40%",
         // 带状颜色不透明度
         colorAlpha: 0.65,
         // 在HSL颜色空间中循环显示颜色的速度有多快
@@ -118,7 +118,7 @@ module.exports = {
         // 从哪一侧开始Y轴 (top|min, middle|center, bottom|max, random)
         verticalPosition: "center",
         // 到达屏幕另一侧的速度有多快
-        horizontalSpeed: 50,
+        horizontalSpeed: 100,
         // 在任何给定时间，屏幕上会保留多少条带
         ribbonCount: 3,
         // 添加笔划以及色带填充颜色
