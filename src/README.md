@@ -15,7 +15,7 @@ heroImageStyle: {
 }
 isShowTitleInHome: false
 bgImageStyle: {
-  max-height: '700px',
+  max-height: '100%',
   width: '100%'
 }
 
