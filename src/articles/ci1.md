@@ -1,5 +1,5 @@
 ---
-title: 幹部介紹 社長
+title: test
 date: '2021-08-08 22:45:00'
 categories:
  - 人事
