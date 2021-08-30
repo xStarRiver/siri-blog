@@ -18,5 +18,4 @@ bgImageStyle: {
   max-height: '900px',
   width: '100%'
 }
-
 ---
