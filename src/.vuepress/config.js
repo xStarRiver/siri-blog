@@ -26,7 +26,7 @@ module.exports = {
     ['meta', { property: 'og:description', content: ' SIRI Blog' }],
     ['meta', { property: 'og:site_name', content: 'PLKCFS-Siri 討論區' }],
     ['link', { rel: 'icon', href: 'https://avatars.githubusercontent.com/u/77926809?v=4' }],
-    ["script", { src: "/assets/js/bodyClick.js" }]
+    ["script", { src: "/public/assets/js/bodyClick.js" }]
   ],
   
   theme: 'reco',
