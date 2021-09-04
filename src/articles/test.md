@@ -20,6 +20,6 @@ tags:
 :::
 
 :::tip 照片
-![GG](../img/r/1.jpg)
+![GG](../img/r/1.png)
 ![GG](../img/r/2.png)
 :::
