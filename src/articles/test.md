@@ -1,14 +1,25 @@
 ---
-title: init and test
-date: '2021-08-21 14:10:00'
+title: 製作者介紹 星河BBG
+date: '2021-08-22 13:33:00'
+sticky: 1
 categories:
- - frontend
+ - 人事
 tags:
- - test
+ - 幹部介紹
 ---
-這是台南高工網頁設計社的Blog
 
-::: right
+:::tip 公關介紹
+噹噹噹噹!!!\
+今天要介紹的是我們的開發人員-Ho Chun Hung\
+是個聊天大師\
+以下請開發人員來自我介紹:
 
-<p style="color: #ffff;">於2021/8/21建立</p>
+    Hi EVEYONE ????
+
+
+:::
+
+:::tip 照片
+![GG](../img/r/1.jpg)
+![GG](../img/r/2.png)
 :::
