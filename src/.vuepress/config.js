@@ -69,16 +69,6 @@ module.exports = {
         icon: 'reco-date'
       },
       {
-        text: 'Instagram',
-        link: 'https://www.instagram.com/xstarriver/',
-        icon: 'fab fa-instagram'
-      },
-      {
-        text: 'Youtube',
-        link: 'https://www.youtube.com/channel/UCibVbf4p7XDVuW4Uly3DoVA',
-        icon: 'fab fa-youtube'
-      },
-      {
         text: '立刻投稿',
         link: 'https://www.youtube.com/channel/UCibVbf4p7XDVuW4Uly3DoVA',
         icon: 'fab fa-wpforms'
