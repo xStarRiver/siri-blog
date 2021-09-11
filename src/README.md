@@ -4,7 +4,7 @@ home: true
 heroText: PLKCFS Siri
 tagline: 討論區
 # bgColor: "#5b5b87"
-bgImage: '/bg_siri.webp'
+bgImage: '/siri.gif'
 heroImageStyle: {
   width: '100%',
   height: '100%',
