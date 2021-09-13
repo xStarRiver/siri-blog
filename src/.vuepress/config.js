@@ -70,7 +70,7 @@ module.exports = {
       },
       {
         text: '立刻投稿',
-        link: 'https://www.youtube.com/channel/UCibVbf4p7XDVuW4Uly3DoVA',
+        link: 'https://forms.gle/YR4EkxPYVvgLHJSW9',
         icon: 'fab fa-wpforms'
       },
     ],
