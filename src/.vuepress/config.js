@@ -77,7 +77,7 @@ module.exports = {
     sidebar: { },
     friendLink: [
       {
-        title: 'Ho Chung Hung',
+        title: '開發人員Ho Chun Hung',
         desc: 'Instagram',
         email: 'ers13542785lol@gmail.com',
         link: 'https://www.instagram.com/xstarriver/',
