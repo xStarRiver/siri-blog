@@ -21,5 +21,5 @@ tags:
 :::tip 照片
 ![GG](../img/r/1.png)
 ![GG](../img/r/johnny.png)
-![GG](../img/r/elon.jpg)
+![GG](../img/r/elon.png)
 :::
