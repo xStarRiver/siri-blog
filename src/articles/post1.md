@@ -13,7 +13,7 @@ tags:
 今天要介紹的是我們的開發人員-Ho Chun Hung\
 以下請開發人員來自我介紹:
 
-    Hi : ) I'm Ho Chun Hung ( 未來spaceX工程師) 
+    Hi : ) I'm Ho Chun Hung 我嘅興趣係編程(❤AI) | 我偶像Elon Musk | 好奇寶寶 | 未來spaceX工程師!(誤 
 
 
 :::
@@ -21,4 +21,5 @@ tags:
 :::tip 照片
 ![GG](../img/r/1.png)
 ![GG](../img/r/johnny.png)
+![GG](../img/r/elon.jpg)
 :::
