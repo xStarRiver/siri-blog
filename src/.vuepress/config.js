@@ -84,7 +84,7 @@ module.exports = {
         logo: 'https://avatars.githubusercontent.com/u/48813247?v=4',
       },
     ],
-    
+    credits: {enabled : false},
     logo: 'https://avatars.githubusercontent.com/u/77926809?v=4',
     search: true,
     searchMaxSuggestions: 10,
