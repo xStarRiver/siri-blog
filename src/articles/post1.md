@@ -14,7 +14,7 @@ tags:
 以下請開發人員來自我介紹:
 
     Hi : ) I'm Ho Chun Hung 我嘅興趣係編程(❤AI) | 我偶像Elon Musk | 好奇寶寶 | 未來spaceX工程師!(誤 
-
+    開發程序 : 網站開發語言包含 Javascript | Vue.js | Webkit | Jquery.js | Github
 
 :::
 
