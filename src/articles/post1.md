@@ -14,7 +14,7 @@ tags:
 以下請開發人員來自我介紹:
 
     Hi : ) I'm Ho Chun Hung 我嘅興趣係編程(❤AI) | 好奇寶寶 | 未來spaceX工程師!(誤 
-    開發程序 : 網站開發語言包含 Javascript | Vue.js | vuepress | Webkit | Jquery.js | Github (gh-page | actions)
+    開發程序(keywords) : 網站開發語言包含 Javascript | Vue.js | vuepress | Webkit | Jquery.js | Github (gh-page | actions) | Google Search Console
     有興趣嘅同學可以去研究下 ~ 
     Github : xStarRiver
 
