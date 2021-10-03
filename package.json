@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@jamesives/github-pages-deploy-action": "^4.1.5",
-    "hexo-generator-sitemap": "^2.1.0"
+    "hexo-generator-sitemap": "^2.1.0",
+    "vuepress-plugin-sitemap": "^2.3.1"
   }
 }
