@@ -21,6 +21,8 @@ Taking part in the Student Union is definitely not a walk in the park. There are
 I hope that everyone can vote for Siri✨Give us the opportunity to exhibit our talents and passion to serve all of you!
 
 
+
+![圖啦](../img/r/kelly.jpg)
 ![圖啦](../img/r/kelly.png)
 
 :::
