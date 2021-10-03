@@ -6,6 +6,9 @@ categories:
  - Siri學生會內閣
 tags:
  - 幹事介紹
+meta:
+  - property: og:title
+    content: VuePress SEO plugin
 ---
 
 :::tip 開發人員介紹

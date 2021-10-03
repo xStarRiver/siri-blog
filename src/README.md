@@ -18,5 +18,9 @@ bgImageStyle: {
   max-height: '900px',
   width: '100%'
 }
+meta:
+  - property: og:title
+    content: VuePress SEO plugin
+    tags: [Student Union, 學生會, PLKCFS, PLKCFS-Siri, activity, plkcfs, plkcfs學生會, plkcfs-siri,siri-plkcfs]
 ---
 
