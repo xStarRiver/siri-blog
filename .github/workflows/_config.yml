@@ -1,3 +1,5 @@
+gem: 
+  - jekyll-sitemap
 url: "https://plkcfs-siri.com/siri-blog" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
