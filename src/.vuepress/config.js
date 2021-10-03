@@ -103,7 +103,7 @@ module.exports = {
     ['@vuepress/plugin-back-to-top'],
     ['@vuepress/plugin-medium-zoom'],
     ['sitemap', {
-      hostname: 'https://plkcfs-siri.com/siri-blog/'
+      hostname: 'https://plkcfs-siri.com/siri-blog/sitemap.xml'
     }]
     
     ["@vuepress-reco/loading-page", false],
