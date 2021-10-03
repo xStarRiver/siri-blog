@@ -20,7 +20,7 @@ bgImageStyle: {
 }
 meta:
   - property: og:title
-    content: VuePress SEO plugin
+    content: PLKCFS-Siri 討論區
     tags: [Student Union, 學生會, PLKCFS, PLKCFS-Siri, activity, plkcfs, plkcfs學生會, plkcfs-siri,siri-plkcfs]
 ---
 
