@@ -24,6 +24,5 @@ jobs:
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: build # The
-        
-plugins:
-  - jekyll-sitemap
+        gem: 
+           - jekyll-sitemap
