@@ -102,6 +102,10 @@ module.exports = {
   plugins: [
     ['@vuepress/plugin-back-to-top'],
     ['@vuepress/plugin-medium-zoom'],
+    ['sitemap', {
+      hostname: 'https://plkcfs-siri.com/siri-blog/'
+    }]
+    
     ["@vuepress-reco/loading-page", false],
     ["ribbon-animation", {
       size: 90,   // 默认数据
