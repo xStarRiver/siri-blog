@@ -25,6 +25,8 @@ I hope that everyone can vote for Siri✨Give us the opportunity to exhibit our 
 ![圖啦](../img/r/kelly.jpg)
 ![圖啦](../img/r/kelly.png)
 
+President: 5D Ngan Wai
+
 Let me ask you all, which of the following is  your favorite? Our IG posts, promotion products, the website, or the promotion videos? For me, it is the promotion videos. Every promotion video was planned and edited by me. My criteria are to finish every video and everything with the highest quality. This belief also apply to our cabinet’s every action and thought in order to pursue perfection, which is the same as our slogan, Reach Infinity.
 
 Some of the students may have seen me before, as I’ve participated in different clubs and become a committee member of them. I was the President of SeeTV last year, and I tried my best to bring the best show for you. From these experiences, what  benefited me the most was management. Because of the instability amid  COVID-19, there were always some ad hoc announcements for the whole school. I needed to ensure that all types of equipment were fully ready for the live broadcast  every day, including the arrangement of manpower in a short period of time. After a year, I’ve accustomed to this work mode and teamwork. I’m going to apply this work mode to our cabinet. Over  the past one and a half months, we’ve finished every job efficiently with high quality— finding welfare and supporting schools, planning all kinds of services and activities, and promoting.
