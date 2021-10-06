@@ -1,7 +1,7 @@
 ---
 title: 理念宣傳片心得-主席
 date: '2021-09-18 16:01:00'
-sticky: 2
+sticky: 3
 categories:
  - Siri學生會內閣
 tags:
