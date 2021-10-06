@@ -9,6 +9,7 @@ tags:
 ---
 
 :::tip Siri活動後備方案
-:::
 ![圖啦](../img/r/even1.png)
 ![圖啦](../img/r/even2.png)
+:::
+
