@@ -232,6 +232,162 @@ $40送半份燒賣
 
 59. 大富翁夢想世界™️門票 $205(原價$260)
 
+服飾
 
+60. @championhongkong
+正價貨品7折優惠
+
+61. @blackmodes_
+正價貨品買任何兩件或以上即享有9折優惠
+
+62. @skymart_hk
+現貨正價貨品95折
+
+63. @lookrightt
+現貨正價貨品95折
+
+64. @ck.room
+全單95折+送一對韓制襪子
+
+65. @153.mono_
+全店85折優惠（不可與其他優惠共同使用）
+
+66. @dinosaur_shop_hk
+凡購物滿$199會送一份小禮物
+不設揀款（上衣、褲、裙、精品等）
+不可與其他優惠同時使用
+
+67. @rabbit_shophk
+95折優惠
+
+68. @twoleehk
+提供學生證88折
+
+69. @ototo_hk
+全場衫褲外套享有九折
+提供班衫售買服務 ，會以優惠價發售
+
+70. @dzageofficial
+8折優惠
+
+71. @leah.label
+正價九五折
+
+72. @storeast_hk2
+可享有95折扣優惠
+指定貨品除外。購買Supreme產品，送𝐒𝐮𝐩𝐫𝐞𝐦𝐞®️/𝐙𝐢𝐩𝐥𝐨𝐜®️ 𝐁𝐚𝐠𝐬 2個。購買Human i Made產品，送𝐇𝐮𝐦𝐚𝐧𝐌𝐚𝐝𝐞 File 1個
+
+73. @yesenia.storehk
+所有產品9折優惠，特價貨品除外
+
+74. @korme.20
+購物滿2件或以上衣服、袋、帽類產品95折優惠
+符合以上條件同時免金剛自取點運費
+
+75. @julztore
+除了鞋類,其他貨品全部正價85折!!滿$1000包郵
+每月會有學生會精選貨品優惠
+
+76. @28.egg
+正價貨品兩件95折/三件9折 滿$599包郵
+
+77. @dawnbird.kr
+全單九五折
+
+班衫/學習/party room/其他
+
+78. @afterschool_hk
+禮品卡:同學只需跟住指示，就可以免費獲得 10 科主修 + 選修科目嘅付費課程，總值 $3000！
+
+79. @snapask
+提供Discount code!
+
+80. @hkdsegayau
+以正價購買溫習筆記或網上課程
+，即可享9折優惠
+
+81. @upgrade_hk
+10日票優惠碼:10日票可獲費用減免$100
+月票優惠碼:減免 $200
+
+82. @hkdse.english.star
+1. 4位同學一同報讀常規課程，報讀首期，其中一位同學可免學費
+2. 每位同學可獲特別免費試堂一次
+
+83. @notesity.hk
+全單95折優惠
+
+84. @learnandthinkeducation
+所有貴校學生報讀學思任何科目，首期均可減免$100
+
+85. @kaleespace
+有10%off
+
+86. @amusing.studio
+凡出示學生證報讀任何音樂課程可享有第一期9折優惠
+
+87. @magication.hk
+常規課程每期可減$40
+
+88. @ttfortee_hk
+1. 一班全單減$100 兩班全單減$200
+三班全單減$360 四班或以上全單減$600
+2. 聯班訂購即享免費速遞送貨
+
+89. @teetimeprinting
+一班訂購滿30件送1件
+兩班同時訂購85折
+三班8折，4班最平75折
+
+90. @helioshk.ltd
+1. 兩班95折 三班9折 四班85折
+2. 聯班訂單滿4000全數付款可以享送貨一次
+
+91. @ohlook_hk
+(每班/社滿25件）
+1. 如兩班減＄200，三班減＄300....
+2. 免費送一件衫給班主任（30件以上）
+3. 免費電腦畫圖
+
+92. @themuses.partyroom
+為貴校學生提供額外9折優惠
+
+93. @partyroom_boardsingdate
+8位或以上送1小時同仼選一款野飲
+
+94. @partyroom_blank
+2人booking 可享95折優惠
+4人以上booking 全單9折
+
+95. @immortal__land
+為提供9折優惠
+
+其他:
+96. @dearlickcious
+可有95折
+
+97. @troubletea.hk
+一杯9折
+
+98. @kochaya_tea
+買2杯以上有9折
+
+99. @donutmama_baking
+9折優惠
+
+100. @blossom.timeee
+買滿80-5蚊 優惠碼: susiri
+
+101. @t.time_bakery
+每個蛋糕可即減$18(限東涌交收）
+
+102. @scavenger.co
+Marshall & Sudio 產品及菲林相機9折
+
+103. @xdwords
+購物滿$50有9折優惠，購物滿$100有95折優惠。
+
+104. @grinstant_official
+折扣碼：EDU2021, 35%off discount
 
 :::
