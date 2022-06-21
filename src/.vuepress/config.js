@@ -1,7 +1,9 @@
 const { description } = require('../../package')
 
-module.exports = {
-
+module.exports = {  
+  publicPath: process.env.NODE_ENV === 'production'
+  ? '/siri-blog/'
+  : '/',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
